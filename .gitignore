@@ -1,0 +1,7 @@
+# Environment variables
+.env
+
+# PlantVillage dataset
+PlantVillage-Dataset/plant-disease-identifier/PlantVillage-Dataset.zip
+plant-disease-identifier/PlantVillage-Dataset.zip
+plant-disease-identifier/PlantVillage-Dataset/

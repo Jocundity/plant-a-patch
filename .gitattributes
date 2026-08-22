@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+plant-disease-identifier/PlantVillage-Dataset.zip filter=lfs diff=lfs merge=lfs -text
